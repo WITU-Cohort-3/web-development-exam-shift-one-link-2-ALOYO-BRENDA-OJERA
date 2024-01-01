@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color:aquamarine;
+}
+.form{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.another{
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+}
